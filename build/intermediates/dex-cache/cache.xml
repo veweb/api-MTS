@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Soporte\StudioProjects\Main\Main\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="612846c9857077a039b533718f72db3bc041d389">
+        <dex dex="C:\Users\Soporte\StudioProjects\Main\Main\build\intermediates\pre-dexed\debug\android-support-v4_e195c2c338892c37c15fcddcac29f9ef044e37b2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,144 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .DS_Store
+* .metadata\
+* .metadata\.lock
+* .metadata\.log
+* .metadata\.plugins\
+* .metadata\.plugins\org.eclipse.cdt.core\
+* .metadata\.plugins\org.eclipse.cdt.core\.log
+* .metadata\.plugins\org.eclipse.cdt.make.core\
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.c
+* .metadata\.plugins\org.eclipse.cdt.make.core\specs.cpp
+* .metadata\.plugins\org.eclipse.core.resources\
+* .metadata\.plugins\org.eclipse.core.resources\.history\
+* .metadata\.plugins\org.eclipse.core.resources\.history\24\
+* .metadata\.plugins\org.eclipse.core.resources\.history\24\9086e5e392250013161682bfd3325388
+* .metadata\.plugins\org.eclipse.core.resources\.history\fb\
+* .metadata\.plugins\org.eclipse.core.resources\.history\fb\e08cc6e392250013161682bfd3325388
+* .metadata\.plugins\org.eclipse.core.resources\.projects\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\5f\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\5f\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\66\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\66\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\cd\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\cd\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\d6\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\d6\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\de\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\de\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\eb\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\eb\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\ee\
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\a0\ee\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.location
+* .metadata\.plugins\org.eclipse.core.resources\.projects\EjemploGoogleMapas\.markers
+* .metadata\.plugins\org.eclipse.core.resources\.root\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index
+* .metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version
+* .metadata\.plugins\org.eclipse.core.resources\.root\3.tree
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\
+* .metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources
+* .metadata\.plugins\org.eclipse.core.runtime\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\com.android.ide.eclipse.adt.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.debug.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.cdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs
+* .metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.wst.sse.core.prefs
+* .metadata\.plugins\org.eclipse.e4.workbench\
+* .metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi
+* .metadata\.plugins\org.eclipse.jdt.core\
+* .metadata\.plugins\org.eclipse.jdt.core\1790257910.index
+* .metadata\.plugins\org.eclipse.jdt.core\2378032568.index
+* .metadata\.plugins\org.eclipse.jdt.core\4066099597.index
+* .metadata\.plugins\org.eclipse.jdt.core\796705227.index
+* .metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps
+* .metadata\.plugins\org.eclipse.jdt.core\indexNamesMap.txt
+* .metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache
+* .metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache
+* .metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt
+* .metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat
+* .metadata\.plugins\org.eclipse.jdt.launching\
+* .metadata\.plugins\org.eclipse.jdt.launching\.install.xml
+* .metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\
+* .metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml
+* .metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\47\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\47\refactorings.history
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\47\refactorings.index
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\48\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\48\refactorings.history
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\11\48\refactorings.index
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\9\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\9\39\
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\9\39\refactorings.history
+* .metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2013\9\39\refactorings.index
+* .metadata\.plugins\org.eclipse.ltk.ui.refactoring\
+* .metadata\.plugins\org.eclipse.ltk.ui.refactoring\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\
+* .metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml
+* .metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml
+* .metadata\version.ini
+* proguard-project.txt
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* alert.WAV => alert.wav
+* AndroidManifest.xml => Main\src\main\AndroidManifest.xml
+* assets\ => Main\src\main\assets\
+* libs\android-support-v4.jar => Main\libs\android-support-v4.jar
+* lint.xml => Main\lint.xml
+* res\ => Main\src\main\res\
+* src\ => Main\src\main\java\
+* src\.DS_Store => Main\src\main\resources\.DS_Store
+* src\com\.DS_Store => Main\src\main\resources\com\.DS_Store
+* src\com\authorwjf\.DS_Store => Main\src\main\resources\com\authorwjf\.DS_Store
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\build\\intermediates\\res\\merged\\debug\\layout\\taximetro.xml",
+        "source": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\src\\main\\res\\layout\\taximetro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\build\\intermediates\\res\\merged\\debug\\layout\\mensajeria.xml",
+        "source": "C:\\Users\\Soporte\\StudioProjects\\Main\\Main\\src\\main\\res\\layout\\mensajeria.xml"
+    }
+]

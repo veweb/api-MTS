@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/taxifulltaximetro"
+    android:gravity="center"
+    android:orientation="horizontal" >
+    
+   
+    	
+        <Button 
+          
+            android:id="@+id/start_button"
+            android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="250dp"
+            android:layout_marginTop="440dp"
+			android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/btn_iniciar"/>
+        
+          <Button 
+            
+            android:id="@+id/stop_button"
+            android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginLeft="530dp"
+            android:layout_marginTop="440dp"
+			android:background="@android:color/transparent"
+            android:drawableLeft="@drawable/btn_parar" />    	
+     
+  
+     
+    <Chronometer 
+        android:id="@+id/chronometer"
+        android:format="%s"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginLeft="210dp"
+        android:layout_marginTop="210dp"
+        android:textColor="#ffffff"
+        android:textSize="50sp"/>
+
+    <Button
+        android:id="@+id/regresar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="480dp"
+		android:background="@android:color/transparent"
+        android:drawableLeft="@drawable/btn_regresar"/>
+
+    <TextView
+        android:id="@+id/txt_kilometros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_marginLeft="580dp"
+        android:layout_marginTop="210dp"
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <TextView
+        android:id="@+id/txt_metros"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:layout_marginLeft="680dp"
+        android:layout_marginTop="210dp"
+        android:textColor="#ffffff"
+        android:textSize="50sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+</FrameLayout>

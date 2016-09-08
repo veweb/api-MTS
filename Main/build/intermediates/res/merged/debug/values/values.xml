@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiTaxiSeguro</string>
+    <string name="dialog_text">\
+        A dialog is usually a small window that appears in
+        front of the current Activity. The underlying Activity loses focus and
+        the dialog accepts all user interaction. Dialogs are normally used for
+        notifications that should interrupt the user and to perform short tasks
+        that directly relate to the application in progress (such as a
+        progress bar or a login prompt).
+    </string>
+    <string name="dialog_title">About Android Dialog Box</string>
+    <string name="hello">Android, Custom Dialog Box!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mi Taxi Seguro</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
